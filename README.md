@@ -5,9 +5,25 @@ Kombi Moto Lab
 
 ## Workshop Roadmap ##
 - [ ] Alternating current supplement
+- [ ] Internet supplement
 
 ## Necessary Components ##
+
+### Eletrical ###
 | Name | 
 | :--: |
 | Frequency inverter |
+| stationary battery bank |
+| Transfer Switch 3 Positions |
+| Residual current ircuit breaker |
+| Emergency button |
+| Circuit breaker |
+| Voltmeter |
 | Wattmeter |
+
+
+### Network ### 
+| Name |
+| :--: |
+| Antenna rf |
+| 4g Router |
